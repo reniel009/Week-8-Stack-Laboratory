@@ -60,6 +60,7 @@ malformed expressions, division by zero, and non-finite results.
 
 ## Repository Structure
 
+```
 CC105_Week8_Section_GroupName/
 ├── screenshots/
 │   ├── bracket error mismatached.png
@@ -74,3 +75,4 @@ CC105_Week8_Section_GroupName/
 │   ├── main.cpp
 │   └── stack.h
 └── README.md
+```
