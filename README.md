@@ -66,13 +66,13 @@ CC105_Week8_Section_GroupName/
 │   ├── bracket error mismatached.png
 │   ├── bracket error unclosed.png
 │   ├── correct expression.png
-│   └── division by zero.png
+│   ├── division by zero.png
 |   └── empty_stack handling.png
-├── tests/
-│   └── Test Report _ CC105 Week 8 Laboratory.pdf
 ├── src/
-│   ├── ExpressionEngine.h     
-│   ├── main.cpp
-│   └── stack.h
+│   ├── ExpressionEngine.h
+|   ├── main.cpp
+|   └── stack.h
+├── tests/
+│   ├── Test Report _ CC105 Week 8 Laboratory.pdf 
 └── README.md
 ```
