@@ -61,7 +61,7 @@ malformed expressions, division by zero, and non-finite results.
 ## Repository Structure
 
 ```
-CC105_Week8_Section_GroupName/
+CC105_Week8_2.4BSIT_Oliquino/
 ├── screenshots/
 │   ├── bracket error mismatached.png
 │   ├── bracket error unclosed.png
